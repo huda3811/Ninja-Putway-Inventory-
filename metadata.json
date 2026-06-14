@@ -1,0 +1,8 @@
+{
+  "name": "Ninja Putway Inventory Tracker",
+  "description": "A professional inventory tracking application for the Ninja Online Shop Putway section, featuring barcode scanning, real-time calculations, and duplicate detection.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
